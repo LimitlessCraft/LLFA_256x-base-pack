@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "No it's paint.net.",
+        "name": "Looks like FireAlpaca (256x verison)",
+        "uuid": "95b624b1-81ee-4d83-b59b-c3686af1226f",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 70 ]
+    },
+    "modules": [
+        {
+            "description": "No it's paint.net.",
+            "type": "resources",
+            "uuid": "e245b64c-872b-4ce8-8297-f776d8099a2b",
+            "version": [0, 0, 1]
+        }
+    ]
+}
